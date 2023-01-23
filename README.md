@@ -8,7 +8,7 @@
 <h2>Networks</h2>
 <div align="center" valign="top">
   
-<a href="mailto:ffhellipyc.santana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<a href="ffhellipyc.santana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   
 <a href="https://instagram.com/_fhellipy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
