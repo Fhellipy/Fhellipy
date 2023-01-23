@@ -3,7 +3,8 @@
 
 - 🌱 Sempre buscando novos conhecimentos e desafios!
 
-<div align="center" valign="top"><br>
+<h2>Networks</h2>
+<div align="center" valign="top">
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
   
@@ -15,6 +16,8 @@
 </div>
 
 <br />
+
+<h2>Technologies</h2>
 
 <div >
 <div align="center" valign="top">
