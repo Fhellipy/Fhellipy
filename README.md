@@ -1,5 +1,6 @@
-## Olá! Eu sou o Fhellipy 👋
+## HI! I'm Fhellipy, nice to meet u!
 
 
-- 🔭 Desenvolver FullStack
 - 🌱 Sempre buscando novos conhecimentos e desafios!
+
+<div></div>
