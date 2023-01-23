@@ -4,6 +4,11 @@
 - 🌱 Sempre buscando novos conhecimentos e desafios!
 
 
+<div align="center" valign="top"><br>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+</div>
+
 <div >
 <div align="center" valign="top">
 <br />
@@ -20,7 +25,7 @@
   <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">       
 </div>
 
-</br>
+<br />
   
 <div align="center">
     <a href="https://github.com/Fhellipy">
