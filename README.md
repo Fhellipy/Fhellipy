@@ -17,8 +17,6 @@
 <a href="https://www.linkedin.com/in/fhellipy-c-santana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-##
-
 <h2>Technologies</h2>
 
 <div >
