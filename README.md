@@ -3,6 +3,8 @@
 
 - 🌱 Sempre buscando novos conhecimentos e desafios!
 
+<h2>About me</h2>
+
 <h2>Networks</h2>
 <div align="center" valign="top">
   
