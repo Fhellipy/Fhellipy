@@ -2,7 +2,8 @@
 
 
 - 🌱 Sempre buscando novos conhecimentos e desafios!
-
+- 
+<div align="center" valign="top"><br>
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
   
   <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css">
