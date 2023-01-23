@@ -6,7 +6,7 @@
 <h2>About me</h2>
 
 <h2>Networks</h2>
-<div style="display: inline_block">
+<div align="center" style="display: flex">
   
 <a href="ffhellipyc.santana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   
