@@ -20,7 +20,7 @@
   <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">       
 </div>
 
-  <div align="center" style="display: flex; justify-content: center; flex-direction: column;">
+  <div align="center" display="flex" justifyContent="center" flexDirection:"column">
     <a href="https://github.com/Fhellipy">
       <img height="150em"
         src="https://github-readme-stats.vercel.app/api?username=Fhellipy&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" />
