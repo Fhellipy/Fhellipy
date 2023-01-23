@@ -1,9 +1,9 @@
 ## Hi! I'm Fhellipy, nice to meet you!
 
-
+<h2>About me</h2>
+- Desenvolver Front-end!
 - 🌱 Sempre buscando novos conhecimentos e desafios!
 
-<h2>About me</h2>
 
 <h2>Networks</h2>
 <div align="center" style="display: flex">
@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/fhellipy-c-santana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<br />
+##
 
 <h2>Technologies</h2>
 
