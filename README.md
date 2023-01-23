@@ -1,6 +1,8 @@
-## HI! I'm Fhellipy, nice to meet u!
+## Hi! I'm Fhellipy, nice to meet you!
 
 
 - 🌱 Sempre buscando novos conhecimentos e desafios!
 
-<div></div>
+<div>
+<a href="https://" />
+</div>
