@@ -1,7 +1,7 @@
 ## Hi! I'm Fhellipy, nice to meet you!
 
 <h2>About me</h2>
-- Desenvolver Front-end!
+- Desenvolver Front-end! <br />
 - 🌱 Sempre buscando novos conhecimentos e desafios!
 
 
