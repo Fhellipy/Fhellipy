@@ -11,6 +11,8 @@
 <a href="ffhellipyc.santana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   
 <a href="https://instagram.com/_fhellipy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+<a href="https://instagram.com/_fhellipy" target="_blank"><img align="center" alt="Fhellipy-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-plain.svg"></a>
 
 <a href="https://twitter.com/_fhellipy" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
