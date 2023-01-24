@@ -45,9 +45,3 @@
   </div>
 </div>
 
- <div align="center">
-<br><p><b>Visitors Count</b></p>  
-<p><img src="https://profile-counter.glitch.me/{fhellipy}/count.svg" /></p> 
-<br>
-
-</div>
